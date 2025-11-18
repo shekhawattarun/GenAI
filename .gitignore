@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+models/*
+!models/.gitkeep
+data/*
+!data/sample_xray.png
+.DS_Store

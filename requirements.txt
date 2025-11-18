@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+streamlit
+numpy
+opencv-python
+pillow
+scikit-learn
+joblib
+torch
+torchvision
+transformers
+pytest
